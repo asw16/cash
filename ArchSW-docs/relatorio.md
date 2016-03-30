@@ -35,6 +35,7 @@ Como instalamos e executamos a aplicação em **Linux** e **Windows**:
 
 - **Linux**
 	- Instalação
+	
 		```
 		npm install cash -g
 		```
