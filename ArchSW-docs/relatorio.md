@@ -45,6 +45,7 @@ Como instalamos e executamos a aplicação em **Linux** e **Windows**:
 
 - **Windows**
 	- Instalação
+	
 		Abrir terminal do Node.js
 		```npm install cash -g```
 	- Executar ```cash```
