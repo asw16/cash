@@ -3,7 +3,7 @@
 </h1>
 
 O Cash é uma implementação multi-plataforma de comandos *shell* em **Unix** escrito em **ECMAScript 6**.
-Tem como objetivo proporcionar a impressão de trabalhar em **Linux** enquanto dentro do sistema operativo **Windows** e ainda incentivar o desenvolvimento de *bash scripting* num ambiente **Javascript**.
+Tem como objetivo proporcionar a impressão de trabalhar em **Linux** enquanto dentro do sistema operativo **Windows** e ainda incentivar o desenvolvimento de *bash scripting* num ambiente **JavaScript**.
 
 De momento, estão implementados os seguintes comandos *shell*:
 
@@ -40,11 +40,11 @@ Como instalamos e executamos a aplicação em **Linux** e **Windows**:
 		npm install cash -g
 		```
 	
-	Para correr a aplicação é necessário que estejam instalados certos módulos ( Array-Shufffle, Chaik, Filesize, fkill, fs-extra, glob, lodash, minimist, user-home, username, vorpal,nodejs). 
+	Para correr a aplicação é necessário que estejam instalados certos módulos ( Array-Shuffle, Chaik, Filesize, fkill, fs-extra, glob, lodash, minimist, user-home, username, vorpal, node.js). 
 	- Executar ```nodejs cash.js``` (no directório bin) 
 
 - **Windows**
 	- Instalação
-		1. Abrir terminal do NodeJS
+		1. Abrir terminal do Node.js
 		2. ```npm install cash -g```
 		3. ```cash```
