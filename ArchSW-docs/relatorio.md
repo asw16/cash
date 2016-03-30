@@ -1,4 +1,4 @@
-![Cash Logo](http://i.imgur.com/XP21pjm.jpg)
+![Cash Logo](http://i.imgur.com/XP21pjm.jpg =280x)
 
 O Cash é uma implementação multi-plataforma de comandos *shell* em **Unix** escrito em **ECMAScript 6**.
 Tem como objetivo proporcionar a impressão de trabalhar em **Linux** enquanto dentro do sistema operativo **Windows** e ainda incentivar o desenvolvimento de *bash scripting* num ambiente **Javascript**.
