@@ -1,6 +1,5 @@
 <h1 align="center">
-	<img width="284" src="http://i.imgur.com/XP21pjm.jpg" alt="Cash">
-	<!--<img width="256" src="http://i.imgur.com/oIN1WsM.jpg" alt="Cash">-->
+	<img width="284" src="http://i.imgur.com/XP21pjm.jpg" alt="Cash Logo">
 </h1>
 
 O Cash é uma implementação multi-plataforma de comandos *shell* em **Unix** escrito em **ECMAScript 6**.
