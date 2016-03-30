@@ -36,7 +36,7 @@ Como instalamos e executamos a aplicação em **Linux** e **Windows**:
 - **Linux**
 	- Instalação
 		```bash
-		npm install cash -g
+			npm install cash -g
 		```
 		Para correr a aplicação é necessário que estejam instalados certos módulos ( Array-Shufffle, Chaik, Filesize, fkill, fs-extra, glob, lodash, minimist, user-home, username, vorpal,nodejs). 
 	- Executar nodejs cash.js (directório bin) 
