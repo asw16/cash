@@ -11,15 +11,10 @@
 
 <a name="introduction"/>
 ## Introdução
-olá sou mesmo giro
-olá sou mesmo giro
-olá sou mesmo giro
-olá sou mesmo giro
-olá sou mesmo giro
+
 <a name="logicalview"/>
 ## Vista Lógica
-olá sou mesmo giro
-olá sou mesmo giro
+
 
 <a name="implementationview"/>
 ## Vista de Implementação
