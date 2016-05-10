@@ -23,11 +23,11 @@
 
 <a name="deploymentview"/>
 ## Vista de Distribuição
-<center><img src="views/deploymentview.png" alt="Linguagens" /></center>
+<img src="views/deploymentview.png" alt="Linguagens" />
 
 <a name="implementationview"/>
 ## Vista de Implementação
 
 <a name="scenarioview"/>
 ## Vista de Cenário
-<div style="text-align:center"><img src ="views/ScenarioView.png" alt="Linguagens" /></div>
+<center><img src ="views/ScenarioView.png" alt="Linguagens" /></center>
