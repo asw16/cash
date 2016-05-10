@@ -13,6 +13,8 @@
 ## Introdução
 
 
+
+
 <a name="logicalview"/>
 ## Vista Lógica
 <img src="views/Logicalview.png" />
