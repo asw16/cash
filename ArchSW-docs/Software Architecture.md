@@ -15,19 +15,19 @@
 
 <a name="logicalview"/>
 ## Vista Lógica
-<img src="views/Logicalview.png" alt="Linguagens" />
+<img src="views/Logicalview.png" />
 
 <a name="processview"/>
 ## Vista de Processo
-<img src="views/ProcessView.png" alt="Linguagens" />
+<img src="views/ProcessView.png" />
 
 <a name="deploymentview"/>
 ## Vista de Distribuição
-<img src="views/deploymentview.png" alt="Linguagens" />
+<img src="views/deploymentview.png" />
 
 <a name="implementationview"/>
 ## Vista de Implementação
 
 <a name="scenarioview"/>
 ## Vista de Cenário
-<center><img src ="views/ScenarioView.png" alt="Linguagens" /></center>
+<img src ="views/ScenarioView.png" />
