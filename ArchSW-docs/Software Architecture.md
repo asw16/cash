@@ -30,4 +30,4 @@
 
 <a name="scenarioview"/>
 ## Vista de Cenário
-<img src="views/ScenarioView.png" alt="Linguagens" />
+<div style="text-align:center"><img src ="views/ScenarioView.png" alt="Linguagens" /></div>
