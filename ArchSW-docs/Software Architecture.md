@@ -23,7 +23,7 @@
 
 <a name="deploymentview"/>
 ## Vista de Distribuição
-<img src="views/deploymentview.png" alt="Linguagens" />
+<center><img src="views/deploymentview.png" alt="Linguagens" /></center>
 
 <a name="implementationview"/>
 ## Vista de Implementação
