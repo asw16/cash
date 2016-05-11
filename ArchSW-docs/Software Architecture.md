@@ -35,7 +35,7 @@ Assim, optámos por utilizar um diagrama de pacotes para representar esta vista.
 A vista de processo é responsavel por mostrar o aspecto dinamico do sistema e foca-se em 3 aspectos:
         - Os processos do sistema.
         - O modo como comunica.
-        - Está focado no comportamento do sistema  durante a sua utilização.
+        - Está focado no comportamento do sistema  durante a sua utilização. 
         
 Assim, optámos por utilizar um diagrama de actividade para representar esta vista.
 <img src="views/ProcessView.png" />
