@@ -26,15 +26,17 @@ Iremos utilizar diagramas UML para representar cada uma das vistas.
 ## Vista Lógica
 
 A vista lógica apresenta o projeto na sua organização e relação entre pastas, assim como importação de módulos necessários ao funcionamento do programa.
+
 Assim, optámos por utilizar um diagrama de pacotes para representar esta vista.
 <img src="views/Logicalview.png" />
 
 <a name="processview"/>
 ## Vista de Processo
 A vista de processo é responsavel por mostrar o aspecto dinamico do sistema e foca-se em 3 aspectos:
-        -> Os processos do sistema.
-        -> O modo como comunica.
-        -> Está focado no comportamento do sistema  durante a sua utilização.
+        - Os processos do sistema.
+        - O modo como comunica.
+        - Está focado no comportamento do sistema  durante a sua utilização.
+        
 Assim, optámos por utilizar um diagrama de actividade para representar esta vista.
 <img src="views/ProcessView.png" />
 
