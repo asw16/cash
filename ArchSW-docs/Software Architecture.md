@@ -12,12 +12,12 @@
 <a name="introduction"/>
 ## Introdução
 
-Neste relatório iremos utilisar o modelo de vistas 4+1 de Arquitectura de Software para descrever o projeto que selecionámos. Este modelo é útil porque representa o mesmo software através de diferentes pontos de vista, simultaneamente. As 5 componentes deste modelo são as seguintes:
+Neste relatório iremos utilizar o modelo de vistas 4+1 de Arquitectura de Software para descrever o projeto que selecionámos. Este modelo é útil porque representa o mesmo software através de diferentes pontos de vista, simultaneamente. As 5 componentes deste modelo são as seguintes:
  - vista lógica
  - vista de processo
  - vista de implementação
  - vista de distribuição
- - cenários
+ - cenários de utilização
 
 
 
