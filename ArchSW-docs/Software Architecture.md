@@ -18,12 +18,15 @@ Neste relatório iremos utilizar o modelo de vistas **4+1** de Arquitectura de S
  - vista de implementação
  - vista de distribuição
  - cenários de utilização
-
+Iremos utilizar diagramas UML para representar cada uma das vistas.
 
 
 
 <a name="logicalview"/>
 ## Vista Lógica
+
+A vista lógica apresenta o projeto na sua organização e relação entre pastas, assim como importação de módulos necessários ao funcionamento do programa.
+Assim, nesta vista optámos por utilizar um diagrama de pacotes.
 <img src="views/Logicalview.png" />
 
 <a name="processview"/>
