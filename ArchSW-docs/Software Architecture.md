@@ -7,7 +7,7 @@
 3. [Vista de Processo](#processview)
 4. [Vista de Distribuição](#deploymentview)
 5. [Vista de Implementação](#implementationview)
-6. [Vista de Cenário](#scenarioview)
+6. [Cenários de Utilização](#scenarioview)
 
 <a name="introduction"/>
 ## Introdução
@@ -53,5 +53,5 @@ Por estes motivos optámos por utilizar um diagrama de [distribuição](https://
 ## Vista de Implementação
 
 <a name="scenarioview"/>
-## Cenários
+## Cenários de Utilização
 <img src ="views/ScenarioView.png" />
