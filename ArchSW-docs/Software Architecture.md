@@ -44,7 +44,9 @@ Assim, optámos por utilizar um diagrama de [actividade](https://en.wikipedia.or
 
 <a name="deploymentview"/>
 ## Vista de Distribuição
-A vista de distribuição apresenta tanto o software como o hardware em que este é executado, assim como as suas interações. O cash foi concebido para ser corrido em ambiente Windows, apesar de também poder ser executado em Linux; assim, é necessário ter um computador com sistema operativo Windows, assim como o node.js instalado. 
+A vista de distribuição apresenta tanto o software como o hardware em que este é executado, assim como as suas interações. O cash foi concebido para ser corrido em ambiente Windows, apesar de também poder ser executado em Linux; assim, é necessário ter um computador com sistema operativo Windows, assim como o node.js instalado.
+
+Por estes motivos optámos por utilizar um diagrama de [distribuição](https://en.wikipedia.org/wiki/Deployment_diagram) para representar esta vista.
 <img src="views/deploymentview.png" />
 
 <a name="implementationview"/>
