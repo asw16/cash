@@ -34,10 +34,10 @@ Assim, optámos por utilizar um diagrama de [pacotes](https://en.wikipedia.org/w
 
 <a name="processview"/>
 ## Vista de Processo
-A vista de processo é responsavel por mostrar o aspecto dinamico do sistema e foca-se em 3 aspectos:
-- Os processos do sistema.
-- O modo como comunica.
-- Está focado no comportamento do sistema  durante a sua utilização. 
+A vista de processo é responsável por mostrar o aspecto dinâmico do sistema e foca-se em 3 aspectos:
+- os processos do sistema,
+- o modo como comunicam,
+- o comportamento geral do sistema durante a sua utilização. 
 
 Assim, optámos por utilizar um diagrama de [actividade](https://en.wikipedia.org/wiki/Activity_diagram) para representar esta vista.
 <img src="views/ProcessView.png" />
