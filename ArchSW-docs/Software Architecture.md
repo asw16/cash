@@ -30,7 +30,7 @@ Iremos utilizar diagramas UML para representar cada uma das vistas.
 A vista lógica apresenta o projeto na sua organização e relação entre pastas, assim como importação de módulos necessários ao funcionamento do programa.
 
 Assim, optámos por utilizar um diagrama de [pacotes](https://en.wikipedia.org/wiki/Package_diagram) para representar esta vista.
-<img src="views/Logicalview.png" width=100 />
+<img src="views/Logicalview.png" width=800 />
 
 <a name="processview"/>
 ## Vista de Processo
