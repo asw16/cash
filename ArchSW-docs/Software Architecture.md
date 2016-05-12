@@ -18,6 +18,8 @@ Neste relatório iremos utilizar o modelo de vistas [**4+1**](https://en.wikiped
  - vista de implementação
  - vista de distribuição
  - cenários de utilização
+
+
 Iremos utilizar diagramas UML para representar cada uma das vistas.
 
 
