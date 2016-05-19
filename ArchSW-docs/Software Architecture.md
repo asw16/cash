@@ -60,6 +60,7 @@ Por esse motivo optámos por utilizar um diagrama de [componentes](https://en.wi
 <a name="scenarioview"/>
 ## Cenários de Utilização
 Os cenários de utilização têm como objectivo demonstrar a interação entre o utilizador e a aplicação. Servem também para verificar o design da arquitectura e ,além disso, são o inicio de possíveis protótipos de arquitetura.
+
 Assim, optámos por utilizar um diagrama [use-case](https://en.wikipedia.org/wiki/Use_case) para representar esta vista.
 
 <img src ="views/ScenarioView.png" />
