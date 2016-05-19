@@ -55,4 +55,4 @@ Por estes motivos optámos por utilizar um diagrama de [distribuição](https://
 <a name="scenarioview"/>
 ## Cenários de Utilização
 Os cenários de utilização têm como objectivo demonstrar a intereção entre o utilizador e a aplicação.Todavia, servem também para verificar o designe da arquitectura e ,além disso, são o inicio de possiveis prototipos de arquitetura.
-                <img src ="views/ScenarioView.png" />
+                                                                                 <img src ="views/ScenarioView.png" />
