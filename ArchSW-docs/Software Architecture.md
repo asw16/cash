@@ -51,6 +51,9 @@ Por estes motivos optámos por utilizar um diagrama de [distribuição](https://
 
 <a name="implementationview"/>
 ## Vista de Implementação
+A vista de implemtação demonstra a prespectiva do programador e a sua preocupação com a gestão do software.
+
+Por esse motivo óptamos por utilizar um diagrama de [componentes](https://en.wikipedia.org/wiki/Component_diagram) para representar esta vista.
 
 <a name="scenarioview"/>
 ## Cenários de Utilização
