@@ -59,5 +59,5 @@ Por esse motivo optámos por utilizar um diagrama de [componentes](https://en.wi
 
 <a name="scenarioview"/>
 ## Cenários de Utilização
-[Os cenários de utilização](https://en.wikipedia.org/wiki/Use_case) têm como objectivo demonstrar a intereção entre o utilizador e a aplicação.Todavia, servem também para verificar o designe da arquitectura e ,além disso, são o inicio de possiveis prototipos de arquitetura.
+[Os cenários de utilização](https://en.wikipedia.org/wiki/Use_case) têm como objectivo demonstrar a interação entre o utilizador e a aplicação. Servem também para verificar o design da arquitectura e ,além disso, são o inicio de possíveis protótipos de arquitetura.
 <img src ="views/ScenarioView.png" />
