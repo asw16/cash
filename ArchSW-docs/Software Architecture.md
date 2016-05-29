@@ -63,4 +63,4 @@ Os cenários de utilização têm como objectivo demonstrar a interação entre 
 
 Assim, optámos por utilizar um diagrama [use-case](https://en.wikipedia.org/wiki/Use_case) para representar esta vista.
 
-<img src ="views/ScenarioView.png" />
+<img src ="views/ASW-ScenarioView.png" />
