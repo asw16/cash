@@ -8,6 +8,7 @@
 4. [Vista de Distribuição](#deploymentview)
 5. [Vista de Implementação](#implementationview)
 6. [Cenários de Utilização](#scenarioview)
+7. [Contribuição](#contribution)
 
 <a name="introduction"/>
 ## Introdução
@@ -59,8 +60,15 @@ Por esse motivo optámos por utilizar um diagrama de [componentes](https://en.wi
 
 <a name="scenarioview"/>
 ## Cenários de Utilização
-Os cenários de utilização têm como objectivo demonstrar a interação entre o utilizador e a aplicação. Servem também para verificar o design da arquitectura e ,além disso, são o inicio de possíveis protótipos de arquitetura.
+Os cenários de utilização têm como objectivo demonstrar a interação entre o utilizador e a aplicação. Servem também para verificar o design da arquitectura e, além disso, são o inicio de possíveis protótipos de arquitetura.
 
 Assim, optámos por utilizar um diagrama [use-case](https://en.wikipedia.org/wiki/Use_case) para representar esta vista.
 
 <img src ="views/ASW-ScenarioView.png" />
+
+<a name="contribution"/>
+## Contribuição
+ - João Alexandre Pedroso Salvado - up201206902: 25% (desenho do diagrama para a vista de processo e contribuição para a realização das restantes vistas; contribuição na redação do relatório).
+ - Miguel Ângelo Castro Silva - up201206728: 25% (desenho do diagrama para a vista de implementação e contribuição para a realização das restantes vistas; contribuição na redação do relatório).
+ - Patrick Alexandre Almeida Grumer - up201205708: 25% (desenho do diagrama para a vista lógica e contribuição para a realização das restantes vistas; contribuição na redação do relatório).
+ - Ricardo André Castro Silva - up201207823: 25% (desenho do diagrama para a vista de distribuição e contribuição para a realização das restantes vistas; contribuição na redação do relatório).
